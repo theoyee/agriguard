@@ -26,7 +26,7 @@ const nextConfig: NextConfig = {
   transpilePackages: ["motion"],
 
   // Next.js 15
-  serverExternalPackages: ["jose"],
+  serverExternalPackages: ["firebase-admin"],
 
   webpack: (config, { dev }) => {
     if (dev && process.env.DISABLE_HMR === "true") {
