@@ -1,0 +1,6 @@
+{
+  "name": "Plant Disease Detection System",
+  "description": "Development of a Plant Disease Detection System Using Deep Learning with Image Preprocessing Techniques for Robust Classification Under Varying Image Conditions",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
