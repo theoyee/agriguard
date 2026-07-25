@@ -5,3 +5,8 @@ coverage/
 *.log
 .env*
 !.env.example
+
+
+# Firebase Admin
+firebase-admin.json
+**/firebase-admin.json
